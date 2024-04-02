@@ -18,7 +18,7 @@ This project is a Java application that functions as a web viewer within a mobil
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/Mustafa2611/WebView-App.git
    ```
 
 2. **Install dependencies (if any):**
